@@ -118,7 +118,7 @@ jobs:
           credentials: ${{ secrets.credentials }}
           filename: "build/Android/Android.apk"
           folderId: ${{ secrets.folderId }}
-          name: "Wild Leprechaun.apk"
+          name: "LEON THE CAT ADVENTURES.apk"
           overwrite: "true" # optional boolean
           
   Deploy_AAB:
@@ -141,5 +141,5 @@ jobs:
           credentials: ${{ secrets.credentials }}
           filename: "build/Android/Android.aab"
           folderId: ${{ secrets.folderId }}
-          name: "Wild Leprechaun.aab"
+          name: "LEON THE CAT ADVENTURES.aab"
           overwrite: "true" # optional boolean
