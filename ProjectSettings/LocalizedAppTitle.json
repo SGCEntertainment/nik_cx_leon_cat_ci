@@ -1,12 +1,12 @@
 {
-    "LocalizeAppNameOnAndroid": false,
+    "LocalizeAppNameOnAndroid": true,
     "LocalizeAppIconOnAndroid": true,
     "LocalizeAppNameOniOS": false,
     "LocalizeAppIconOniOS": false,
     "LocalizedData": [
         {
-            "LanguageCode": "az",
-            "AppName": "My Game",
+            "LanguageCode": "AZ",
+            "AppName": "Leon",
             "AppShortName": "",
             "AndroidIcon": {
                 "fileID": 2800000,
@@ -18,8 +18,8 @@
             }
         },
         {
-            "LanguageCode": "am",
-            "AppName": "My Game",
+            "LanguageCode": "AM",
+            "AppName": "Leon",
             "AppShortName": "",
             "AndroidIcon": {
                 "fileID": 2800000,
@@ -31,7 +31,98 @@
             }
         },
         {
-            "LanguageCode": "by",
+            "LanguageCode": "BY",
+            "AppName": "Leon",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "KZ",
+            "AppName": "Leon",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "KG",
+            "AppName": "Leon",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "MD",
+            "AppName": "Leon",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "RU",
+            "AppName": "Leon",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "TJ",
+            "AppName": "Leon",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "UZ",
+            "AppName": "Leon",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "UA",
             "AppName": "My Game",
             "AppShortName": "",
             "AndroidIcon": {
@@ -45,85 +136,7 @@
         },
         {
             "LanguageCode": "en",
-            "AppName": "My Game",
-            "AppShortName": "",
-            "AndroidIcon": {
-                "fileID": 2800000,
-                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
-                "type": 3
-            },
-            "iOSIcon": {
-                "instanceID": 0
-            }
-        },
-        {
-            "LanguageCode": "en",
-            "AppName": "My Game",
-            "AppShortName": "",
-            "AndroidIcon": {
-                "fileID": 2800000,
-                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
-                "type": 3
-            },
-            "iOSIcon": {
-                "instanceID": 0
-            }
-        },
-        {
-            "LanguageCode": "en",
-            "AppName": "My Game",
-            "AppShortName": "",
-            "AndroidIcon": {
-                "fileID": 2800000,
-                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
-                "type": 3
-            },
-            "iOSIcon": {
-                "instanceID": 0
-            }
-        },
-        {
-            "LanguageCode": "tj",
-            "AppName": "My Game",
-            "AppShortName": "",
-            "AndroidIcon": {
-                "fileID": 2800000,
-                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
-                "type": 3
-            },
-            "iOSIcon": {
-                "instanceID": 0
-            }
-        },
-        {
-            "LanguageCode": "uz",
-            "AppName": "My Game",
-            "AppShortName": "",
-            "AndroidIcon": {
-                "fileID": 2800000,
-                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
-                "type": 3
-            },
-            "iOSIcon": {
-                "instanceID": 0
-            }
-        },
-        {
-            "LanguageCode": "en",
-            "AppName": "My Game",
-            "AppShortName": "",
-            "AndroidIcon": {
-                "fileID": 2800000,
-                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
-                "type": 3
-            },
-            "iOSIcon": {
-                "instanceID": 0
-            }
-        },
-        {
-            "LanguageCode": "en",
-            "AppName": "My Game",
+            "AppName": "LEON THE CAT ADVENTURE",
             "AppShortName": "",
             "AndroidIcon": {
                 "fileID": 2800000,
@@ -135,7 +148,7 @@
             }
         }
     ],
-    "DefaultLocalizedData": 9,
+    "DefaultLocalizedData": 10,
     "AndroidNameResource": "app_name",
     "AndroidIconResource": "app_icon"
 }
