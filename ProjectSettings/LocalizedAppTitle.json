@@ -1,0 +1,141 @@
+{
+    "LocalizeAppNameOnAndroid": false,
+    "LocalizeAppIconOnAndroid": true,
+    "LocalizeAppNameOniOS": false,
+    "LocalizeAppIconOniOS": false,
+    "LocalizedData": [
+        {
+            "LanguageCode": "az",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "am",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "by",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "en",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "en",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "en",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "tj",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "uz",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "en",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "7753ad7a238951c47ad8b3e2cf5e5e59",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "en",
+            "AppName": "My Game",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "44834c40c32caa24ab1c89b30d26c85d",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        }
+    ],
+    "DefaultLocalizedData": 9,
+    "AndroidNameResource": "app_name",
+    "AndroidIconResource": "app_icon"
+}
